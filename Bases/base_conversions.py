@@ -18,7 +18,7 @@ def base_binary(n):
     return res[::-1]
 
 def base_n(n, base):
-    """ base_binary function """
+    """ base_n function """
     res = ""
     ind = len(base)
 
